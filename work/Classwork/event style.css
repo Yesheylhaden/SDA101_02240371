@@ -1,7 +1,15 @@
-h3{
-    color: blue;
-    margin-left: 25px;
+.event{
+    background-color: rgb(247, 186, 196);
+    border-radius: 25px;
+    width: 350px;
+    height: 550px;
+    padding-left: 20px;
 }
-.Events{
-    font-family: 'Times New Roman', Times, serif;
+h3{
+    text-align: center;
+    padding-top: 15px;
+    text-decoration: underline;
+}
+#list{
+    font-weight: bold;
 }
