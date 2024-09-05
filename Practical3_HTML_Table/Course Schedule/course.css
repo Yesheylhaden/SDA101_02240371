@@ -2,7 +2,7 @@ table, th, td {
     border: 1px solid black; border-collapse: collapse;
 }
 h3{
-    padding-left: 150px;
+    padding-left: 250px;
     font-size: 20px;
     font-style: normal;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -35,10 +35,17 @@ h3{
     font-weight: bold;
 }
 .all{
-    width: 570px;
-    height: 250px;
+    width: 710px;
+    height: 280px;
     padding-left: 50px;
-    padding-top: 10px;
+    padding-top: 3px;
     background-color: rgba(255, 160, 160, 0.478);
     border-radius: 25px;
+}
+th, td{
+    border: 1px solid black;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 3px;
+    padding-bottom: 3px;
 }
