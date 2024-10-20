@@ -60,7 +60,6 @@
     "picomatch": "^2.3.1",
     "pify": "^2.3.0",
     "pirates": "^4.0.6",
-    "postcss": "^8.4.47",
     "postcss-import": "^15.1.0",
     "postcss-js": "^4.0.1",
     "postcss-load-config": "^4.0.2",
@@ -83,7 +82,6 @@
     "strip-ansi-cjs": "^6.0.1",
     "sucrase": "^3.35.0",
     "supports-preserve-symlinks-flag": "^1.0.0",
-    "tailwindcss": "^3.4.13",
     "thenify": "^3.3.1",
     "thenify-all": "^1.6.0",
     "to-regex-range": "^5.0.1",
@@ -94,7 +92,12 @@
     "wrap-ansi-cjs": "^7.0.0",
     "yaml": "^2.5.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "auto": "^11.2.1",
+    "postcss": "^8.4.47",
+    "prefixer": "^0.0.3",
+    "tailwindcss": "^3.4.14"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
